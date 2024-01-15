@@ -1,11 +1,13 @@
-﻿using GuesNumber.Classes;
+using GuesNumber.Classes;
 
 Random random = new Random();
 byte count;
 byte Guess =5;
 byte RandomNumber=Convert.ToByte(random.Next(0,101));
 Console.WriteLine("You have 5 chances to guess the number (0-100).");
-for (int i = 0; i < Guess; i++)
+try
+{
+    for (int i = 0; i < Guess; i++)
     {
      Console.WriteLine($"Guess your chance ({i+1}) ?");
      count = Convert.ToByte(Console.ReadLine());
@@ -78,3 +80,9 @@ for (int i = 0; i < Guess; i++)
      }
 
     }
+}
+catch (Exception e)
+{
+Console.WriteLine($"Error is : {e.Message}");
+}
+
