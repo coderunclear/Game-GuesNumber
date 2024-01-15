@@ -1,0 +1,15 @@
+D:\APK\C#\Projects\GuesNumber\bin\Debug\net6.0\GuesNumber.exe
+D:\APK\C#\Projects\GuesNumber\bin\Debug\net6.0\GuesNumber.deps.json
+D:\APK\C#\Projects\GuesNumber\bin\Debug\net6.0\GuesNumber.runtimeconfig.json
+D:\APK\C#\Projects\GuesNumber\bin\Debug\net6.0\GuesNumber.dll
+D:\APK\C#\Projects\GuesNumber\bin\Debug\net6.0\GuesNumber.pdb
+D:\APK\C#\Projects\GuesNumber\obj\Debug\net6.0\GuesNumber.csproj.AssemblyReference.cache
+D:\APK\C#\Projects\GuesNumber\obj\Debug\net6.0\GuesNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\APK\C#\Projects\GuesNumber\obj\Debug\net6.0\GuesNumber.AssemblyInfoInputs.cache
+D:\APK\C#\Projects\GuesNumber\obj\Debug\net6.0\GuesNumber.AssemblyInfo.cs
+D:\APK\C#\Projects\GuesNumber\obj\Debug\net6.0\GuesNumber.csproj.CoreCompileInputs.cache
+D:\APK\C#\Projects\GuesNumber\obj\Debug\net6.0\GuesNumber.dll
+D:\APK\C#\Projects\GuesNumber\obj\Debug\net6.0\refint\GuesNumber.dll
+D:\APK\C#\Projects\GuesNumber\obj\Debug\net6.0\GuesNumber.pdb
+D:\APK\C#\Projects\GuesNumber\obj\Debug\net6.0\GuesNumber.genruntimeconfig.cache
+D:\APK\C#\Projects\GuesNumber\obj\Debug\net6.0\ref\GuesNumber.dll
